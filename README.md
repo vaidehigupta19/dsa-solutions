@@ -47,7 +47,7 @@ This repository contains my C++ solutions to problems solved while following Str
 |--------|--------|
 | Basics | ✅ |
 | Patterns | ✅ |
-| Maths | ⬜ |
+| Maths | 🟨 |
 | Hashing | ⬜ |
 | Sorting | ⬜ |
 | Arrays | ⬜ |
